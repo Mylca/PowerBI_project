@@ -19,9 +19,9 @@ Report je rozdělen do několika tematických stránek:
 
 ## 📈 Zdroje dat
 
-**Ceny potravin** -  Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
-**Číselník kategorií potravin** - Číselník kategorií potravin z datového skladu.
-**Číselník krajů** - Číselník krajů České republiky dle normy CZ-NUTS 2.
+- **Ceny potravin** -  Informace o cenách vybraných potravin za několikaleté období. Datová sada pochází z Portálu otevřených dat ČR.
+- **Číselník kategorií potravin** - Číselník kategorií potravin z datového skladu.
+- **Číselník krajů** - Číselník krajů České republiky dle normy CZ-NUTS 2.
 
 ## 💡 Cíl projektu
 
