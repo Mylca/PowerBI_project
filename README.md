@@ -1,4 +1,4 @@
-# Analýza cen potravin v České republice v letech 2006 - 2018
+# Analýza cen potravin v České republice v letech 2006 až 2018
 
 ## 🗂 Obsah reportu
 
@@ -29,5 +29,5 @@ Cílem tohoto projektu bylo propojit veřejně dostupné ukazatele a vytvořit i
 
 
 ## 📌 Autor
-Milan Komůrka
-Discord: Milan K.
+### Milan Komůrka
+### Discord: Milan K.
