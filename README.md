@@ -10,7 +10,7 @@ Report je rozdělen do několika tematických stránek:
 
 ## 🔧 Použité funkce a techniky
 
-- ✅ Více než 5 typů vizualizací (sloupcové grafy, spojnicové grafy, KPI, matice, karty atd.)
+- ✅ Více než 5 typů vizualizací (sloupcové grafy, spojnicové grafy, koláčové grafy, KPI, matice, karty atd.)
 - ✅ Hierarchie dat (např. kraj → potravina)
 - ✅ Slicery pro filtrování podle let a potravin
 - ✅ Bookmarks a navigace mezi stránkami
