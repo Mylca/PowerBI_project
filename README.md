@@ -6,7 +6,7 @@ Report je rozdělen do několika tematických stránek:
 
 - **Přehledový dashboard** – Souhrnný pohled na hlavní ukazatele
 - **Vývoj cen potravin** – Interaktivní analýza cen základních potravin v čase
-- **Interaktivní srovnání** – Možnost porovnat různé parametry pomocí slicerů a bookmarků
+- **Interaktivní srovnání** – Možnost porovnat různé parametry pomocí slicerů 
 
 ## 🔧 Použité funkce a techniky
 
