@@ -25,7 +25,7 @@ Report je rozdělen do několika tematických stránek:
 
 ## 💡 Cíl projektu
 
-Cílem tohoto projektu bylo propojit veřejně dostupné ukazatele a vytvořit interaktivní analytický nástroj, který zobrazí základní metriky sledovaného souboru dat.
+Cílem tohoto projektu bylo propojit veřejně dostupné zdroje dat a vytvořit interaktivní analytický nástroj, který zobrazí základní metriky sledovaného souboru dat.
 
 
 ## 📌 Autor
